@@ -1,4 +1,4 @@
-module github.com/upgle/gomod-test/gomod-test
+module github.com/upgle/gomod-test
 
 go 1.12
 
